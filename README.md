@@ -1,2 +1,2 @@
 # politixopedia
-Politics Website
+Politics Website. Go to: politixopedia.github.io
